@@ -1,6 +1,6 @@
 # Next Shop
 
-Next Shop is an e-commerce website built with [Next.js](https://nextjs.org/). This project uses `DummyJson` for product data and Firebase for backend services and database management.
+Next Shop is an e-commerce website built with [Next.js](https://nextjs.org/). This project uses `DummyJson` API for product data and Firebase for backend services and database management.
 
 ## Getting Started
 
